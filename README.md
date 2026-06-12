@@ -66,20 +66,23 @@ Full waveform and project view screenshots from ModelSim are available in the [`
 
 
 
-[!(Screenshot 2026-06-09 145603.png)] 
+[!](screen1.png) 
+[!](screen2)
+[!](screen3)
+[!](screen4)
+[!](screen5)
+[!](screen6)
+[!](screen7)
+[!](screen8)
+[!](screen9)
+[!](screen10)
+[!](screen11)
+[!](screen12)
+[!](screen13)
 
-`Screenshot 2026-06-09 145716.png` 
-`Screenshot 2026-06-09 145739.png` 
-`Screenshot 2026-06-09 145805.png` 
-`Screenshot 2026-06-09 150136.png` 
-`Screenshot 2026-06-09 150335.png` 
-`Screenshot 2026-06-09 150404.png` 
-`Screenshot 2026-06-09 150415.png` 
-`Screenshot 2026-06-09 150421.png` 
-`Screenshot 2026-06-09 150427.png` 
-`Screenshot 2026-06-09 150434.png` 
-`Screenshot 2026-06-09 150443.png` 
-`Screenshot 2026-06-09 150622.png` 
+
+screen13
+
 ### Example: Simulation Waveform
 ![Simulation waveform](./screenshots/Screenshot%202026-06-09%20145716.png)
 
