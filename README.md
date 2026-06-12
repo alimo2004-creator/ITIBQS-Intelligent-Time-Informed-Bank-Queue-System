@@ -64,22 +64,22 @@ pCount    ───────────────────────�
 
 Full waveform and project view screenshots from ModelSim are available in the [`/screenshots`](./screenshots) folder of this repo.
 
-| File | Description |
-|------|-------------|
-| `Screenshot 2026-06-09 145603.png` | ModelSim project view — all modules compiled successfully, transcript showing testbench run start and initial signal values |
-| `Screenshot 2026-06-09 145716.png` | Full waveform view — complete simulation run showing FSM state transitions, pCount, addr, and wait time data over ~9000ns |
-| `Screenshot 2026-06-09 145739.png` | Waveform detail — queue filling sequence (customer entry events) |
-| `Screenshot 2026-06-09 145805.png` | Waveform detail — full queue state and `fullAlarm` assertion |
-| `Screenshot 2026-06-09 150136.png` | ModelSim project explorer — all compiled source files (`controllerFSM`, `D_FF`, `edgeDetector`, `ITIBQS`, `waitTime_rom`, `sevenSegmentsDecoder`, `upDownCounter`) |
-| `Screenshot 2026-06-09 150335.png` | Source code view — `ITIBQS.v` top-level module |
-| `Screenshot 2026-06-09 150404.png` | Source code view — `upDownCounter.v` |
-| `Screenshot 2026-06-09 150415.png` | Source code view — `edgeDetector.v` |
-| `Screenshot 2026-06-09 150421.png` | Source code view — `D_FF.v` |
-| `Screenshot 2026-06-09 150427.png` | Source code view — `waitTime_rom.v` |
-| `Screenshot 2026-06-09 150434.png` | Source code view — `sevenSegmentsDecoder.v` |
-| `Screenshot 2026-06-09 150443.png` | Source code view — `ITIBQS_tb.v` (testbench) |
-| `Screenshot 2026-06-09 150622.png` | Source code view — `controllerFSM.v` |
 
+
+[!(Screenshot 2026-06-09 145603.png)] 
+
+`Screenshot 2026-06-09 145716.png` 
+`Screenshot 2026-06-09 145739.png` 
+`Screenshot 2026-06-09 145805.png` 
+`Screenshot 2026-06-09 150136.png` 
+`Screenshot 2026-06-09 150335.png` 
+`Screenshot 2026-06-09 150404.png` 
+`Screenshot 2026-06-09 150415.png` 
+`Screenshot 2026-06-09 150421.png` 
+`Screenshot 2026-06-09 150427.png` 
+`Screenshot 2026-06-09 150434.png` 
+`Screenshot 2026-06-09 150443.png` 
+`Screenshot 2026-06-09 150622.png` 
 ### Example: Simulation Waveform
 ![Simulation waveform](./screenshots/Screenshot%202026-06-09%20145716.png)
 
