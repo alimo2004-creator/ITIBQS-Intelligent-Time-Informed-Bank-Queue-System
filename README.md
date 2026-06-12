@@ -57,7 +57,8 @@ addr[4:0] ──► waitTime_ROM ──► data[7:0] ──► sevenSeg decoder 
                                          └──► sevenSeg decoder ──► waitTimeDisplay_2 [6:0]
 pCount    ──────────────────────────────────► sevenSeg decoder ──► pCountDisplay     [6:0]
 ```
-
+### THE FILE 
+[!rarfile](Verilog_Project.rar)
 ---
 
 ## 🖥️ Simulation Screenshots
@@ -79,14 +80,6 @@ Full waveform and project view screenshots from ModelSim are available in the [`
 ![screen11](screen11)
 ![screen12](screen12)
 ![screen13](screen13)
-
-### Example: Simulation Waveform
-![Simulation waveform](./screenshots/Screenshot%202026-06-09%20145716.png)
-
-### Example: Top-Level Module Source
-![ITIBQS top-level module](./screenshots/Screenshot%202026-06-09%20150335.png)
-
-> 💡 **Setup tip**: create a `/screenshots` folder in your repo root and upload all the `.png` files there. The image links above use relative paths and will render automatically once the folder exists.
 
 ---
 
